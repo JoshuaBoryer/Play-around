@@ -10,3 +10,4 @@ accept=(U<densX)
 # Extract those that are accepted
 beta.sample=X[accept]
 
+
